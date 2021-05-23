@@ -4,12 +4,14 @@
 
 <br>
 
-<img src="img/11.jpg"><br><br>
+><img src="img/11.jpg"><br><br>
 어떤 위력도, 효과도 없는 **잉어킹** :tropical_fish:의 '튀어오르기'! 그 기술만 반복하던 잉어킹은 결국 **강력한 갸라도스**:whale2:로 진화합니다!<br>
 지금은 눈에 띄지 않겠지만, **부딪히며 즐겁게 배우고 성장하여** 멋진 개발자가 되어보겠습니다! :rocket:<br>
 
+<br>
+
 ### 저에 대해 더 궁금하시다면!
 
-- [:baby: 애기 개발자의 블로그](https://velog.io/@shitaikoto)
+- [:baby: **애기 개발자의 블로그**](https://velog.io/@shitaikoto)
 
 차근차근 작성 예정!
