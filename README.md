@@ -20,8 +20,8 @@
 차근차근 작성 예정!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mniYUNSU)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mniYUNSU&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mniYUNSU&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
