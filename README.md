@@ -6,7 +6,7 @@
 
 <a href="https://velog.io/@shitaikoto"><img src="https://img.shields.io/badge/VELOG-4FC08D?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@shitaikoto"/></a>
 <a href="https://www.instagram.com/shitaikoto"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shitaikoto"/></a>
-<a href="matilto:ownsgks@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=matilto:ownsgks@gmail.com"/></a>
+<a href="mailto:ownsgks@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=matilto:ownsgks@gmail.com"/></a>
 
 
 
