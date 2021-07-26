@@ -1,26 +1,48 @@
-<!-- # _안녕하세요!_ :raised_hands:
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20zone!%20🙌&fontSize=36&fontAlign=75&fontAlignY=40)
 
-# 항상 즐거움을 추구하며 개발자로의 진화를 꿈꾸는 { 배윤수 } 입니다. -->
----
+## 🤗 ABOUT ME
 
-<!-- <br>
+<img src="https://img.shields.io/badge/VELOG-4FC08D?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@shitaikoto"/></a>
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shitaikoto"/></a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=matilto:ownsgks@gmail.com"/></a>
 
-<p align="center"><img src="img/11.jpg"></p><br>
 
-어떤 위력도, 효과도 없는 **잉어킹** :tropical_fish:의 '튀어오르기'! 그 기술만 반복하던 잉어킹은 결국 **강력한 갸라도스**:whale2:로 진화합니다!<br>
-지금은 눈에 띄지 않겠지만, **부딪히며 즐겁게 배우고 성장하여** 멋진 개발자가 되어보겠습니다! :rocket:<br>
-<br> -->
 
----
+## 📚 STACK
 
-<!-- ### 저에 대해 더 궁금하시다면! -->
+<img src="https://img.shields.io/badge/Javascript-F36D00?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>
 
-<!-- - [:baby: **애기 개발자의 블로그**](https://velog.io/@shitaikoto) -->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Illustrator-FF6A00?style=flat-square&logo=adobe illustrator&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 
-차근차근 작성 예정!
 
+
+
+
+
+
+
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shitaikoto&color=dark)](https://velog.io/@shitaikoto)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mniYUNSU&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=footer&reversal=true&fontSize=26&fontAlign=85&animation=twinkling&fontAlignY=70&text=🍻☕🍌🍜🍳)
+
+</div>
 
 
 
