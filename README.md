@@ -22,7 +22,7 @@
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Illustrator-FF6A00?style=flat-square&logo=adobe illustrator&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Illustrator-FF6A00?style=flat-square&logo=adobeillustrator&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 
