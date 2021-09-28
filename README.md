@@ -2,7 +2,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20zone!%20🙌&fontSize=36&fontAlign=70&fontAlignY=40)
 
-## 🤗 ABOUT ME
+  
+  
+## 🤗 ABOUT ME 
 
 <a href="https://velog.io/@shitaikoto"><img src="https://img.shields.io/badge/VELOG-4FC08D?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@shitaikoto"/></a>
 <a href="https://www.instagram.com/shitaikoto"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shitaikoto"/></a>
