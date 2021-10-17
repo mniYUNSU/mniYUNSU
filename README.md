@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20zone!%20🙌&fontSize=36&fontAlign=70&fontAlignY=40)
 
   
-  
 ## 🤗 ABOUT ME 
 
 <a href="https://velog.io/@shitaikoto"><img src="https://img.shields.io/badge/VELOG-4FC08D?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@shitaikoto"/></a>
