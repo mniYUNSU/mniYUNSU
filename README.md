@@ -5,6 +5,7 @@
   
 ## 🤗 ABOUT ME 
 
+<a href="https://mniYUNSU.github.io"><img src="https://img.shields.io/badge/DEVLOG-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://mniYUNSU.github.io"/></a>
 <a href="https://velog.io/@shitaikoto"><img src="https://img.shields.io/badge/VELOG-4FC08D?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@shitaikoto"/></a>
 <a href="mailto:ownsgks@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=matilto:ownsgks@gmail.com"/></a>
 
