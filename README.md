@@ -23,12 +23,12 @@
 
 ## 💁 RECENT POSTS
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shitaikoto&color=dark)](https://velog.io/@shitaikoto)
 
 <br>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br>
 <!-- 
