@@ -28,7 +28,7 @@
 <br>
 
 <details>
- <summary style="font-size: 24px; cursor: pointer">⚡ RECENT GITHUB ACTIVITY</summary>
+ <summary style="font-size: 1.5em; cursor: pointer; font-weight: bold">⚡ RECENT GITHUB ACTIVITY</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
