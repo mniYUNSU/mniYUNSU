@@ -33,6 +33,10 @@
 <!--END_SECTION:activity-->
 </details>
 
+<br>
+
+## ⚡ RECENT GITHUB ACTIVITY
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
