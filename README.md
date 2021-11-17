@@ -27,8 +27,12 @@
 
 <br>
 
+<h2><details>
+ <summary>⚡ Recent GitHub Activity</summary>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+</details></h2>
 
 <br>
 <!-- 
