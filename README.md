@@ -29,10 +29,6 @@
 
 ## ⚡ RECENT GITHUB ACTIVITY
 
-<details open>
- <summary>ACTIVITIES</summary>
-</details>
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
