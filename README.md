@@ -27,14 +27,11 @@
 
 <br>
 
-<h2><details>
- <summary>⚡ Recent GitHub Activity</summary>
-
+<details>
+ <summary><h2>⚡ Recent GitHub Activity</h2></summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/mniYUNSU/mniYUNSU.github.io/issues/4) in [mniYUNSU/mniYUNSU.github.io](https://github.com/mniYUNSU/mniYUNSU.github.io)
-2. 🗣 Commented on [#3](https://github.com/mniYUNSU/mniYUNSU.github.io/issues/3) in [mniYUNSU/mniYUNSU.github.io](https://github.com/mniYUNSU/mniYUNSU.github.io)
 <!--END_SECTION:activity-->
-</details></h2>
+</details>
 
 <br>
 <!-- 
