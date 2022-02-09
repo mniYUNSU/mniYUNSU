@@ -30,7 +30,7 @@
 <!-- ## ⚡ RECENT GITHUB ACTIVITY -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/mniYUNSU/mniYUNSU.github.io/issues/4) in [mniYUNSU/mniYUNSU.github.io](https://github.com/mniYUNSU/mniYUNSU.github.io)
+<!-- 1. 🗣 Commented on [#4](https://github.com/mniYUNSU/mniYUNSU.github.io/issues/4) in [mniYUNSU/mniYUNSU.github.io](https://github.com/mniYUNSU/mniYUNSU.github.io)
 1. 🗣 Commented on [#4](https://github.com/mniYUNSU/mniYUNSU.github.io/issues/4) in [mniYUNSU/mniYUNSU.github.io](https://github.com/mniYUNSU/mniYUNSU.github.io)
 2. 🗣 Commented on [#3](https://github.com/mniYUNSU/mniYUNSU.github.io/issues/3) in [mniYUNSU/mniYUNSU.github.io](https://github.com/mniYUNSU/mniYUNSU.github.io)  -->
 <!--END_SECTION:activity-->
