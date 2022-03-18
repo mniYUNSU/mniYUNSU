@@ -1,13 +1,13 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20zone!%20🙌&fontSize=36&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=header&text=Welcome%20to%20my%20zone!%20🙌&fontSize=24&fontAlign=75&fontAlignY=28)
 
-## 🤗 ABOUT ME
+### 🤗 ABOUT ME
 
 <a href="https://mniYUNSU.github.io"><img src="https://img.shields.io/badge/DEVLOG-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:ownsgks@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=matilto:ownsgks@gmail.com"/></a>
 
-## 📚 STACK
+### 📚 STACK
 
 <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=react&logoColor=white"/></a> <img src="https://img.shields.io/badge/React Native-B7178C?style=flat-square&logo=react&logoColor=white"/></a> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
