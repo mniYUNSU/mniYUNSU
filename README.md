@@ -38,6 +38,6 @@
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mniYUNSU&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=footer&reversal=true&fontSize=26&fontAlign=85&animation=twinkling&fontAlignY=70&text=🍻☕🍌🍜🍳)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=footer&reversal=true&fontSize=26&fontAlign=85&animation=twinkling&fontAlignY=70&text=🍻☕🍌🍜🍳) -->
 
 </div>
