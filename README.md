@@ -7,7 +7,7 @@
 <a href="https://mniYUNSU.github.io"><img src="https://img.shields.io/badge/DEVLOG-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:ownsgks@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=matilto:ownsgks@gmail.com"/></a>
 
-[![i18n check](https://github.com/exelban/stats/actions/workflows/i18n.yaml/badge.svg)](https://github.com/exelban/stats/actions/workflows/i18n.yaml)
+<!-- [![i18n check](https://github.com/exelban/stats/actions/workflows/i18n.yaml/badge.svg)](https://github.com/exelban/stats/actions/workflows/i18n.yaml) -->
 
 ### 📚 STACK
 
