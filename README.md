@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=header&text=Welcome%20to%20my%20zone!%20🙌&fontSize=24&fontAlign=75&fontAlignY=28)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header)
 
 ### 🤗 ABOUT ME
 
